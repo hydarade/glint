@@ -3599,5 +3599,9 @@ footer .row {
     }
 }
 
+.site-logo img {
+    width: 150px;
+    height: auto;
+}
 
 /*# sourceMappingURL=main.css.map */
